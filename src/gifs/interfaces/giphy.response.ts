@@ -81,14 +81,17 @@ export interface DownsizedSmall {
     mp4:      string;
 }
 
-export enum Rating {
-    G = "g",
-    PG = "pg",
-}
+// export enum Rating {
+//     G = "g",
+//     PG = "pg",
+// }
 
-export enum Type {
-    GIF = "gif",
-}
+// export enum Type {
+//     GIF = "gif",
+// }
+
+export type Rating = "g" | "pg";
+export type Type = "gif";
 
 export interface Meta {
     status:      number;
