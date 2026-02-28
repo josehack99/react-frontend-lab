@@ -8,7 +8,18 @@ import { getGifsByQuery } from './gifs/actions/get-gifs-by-query.action'
 import type { Gif } from './gifs/interfaces/gif.interface'
 
 export const GifsApp = () => {
+//
+//
 
+//
+
+//
+
+//
+
+//
+
+   
    // const [first, setfirst] = useState(second)
     const [gifs, setGifs] = useState <Gif[]>([])
     const [previousTerms, setPreviousTerms] = useState<string[]>([]);
