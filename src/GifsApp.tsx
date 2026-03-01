@@ -8,7 +8,7 @@ import { getGifsByQuery } from './gifs/actions/get-gifs-by-query.action'
 import type { Gif } from './gifs/interfaces/gif.interface'
 
 export const GifsApp = () => {
-   //ferchoss99
+//   //ferchoss99
    //fernandojoss99
    //frenandojos99
    //josehack99
