@@ -13,7 +13,8 @@ export const GifsApp = () => {
    //frenandojos99
    //josehack99
    //josehack99x2
-// desde local de ferchoss99
+// desde local de ferchoss99 x2
+
 //
    //prueba estera
    //
