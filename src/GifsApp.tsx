@@ -10,7 +10,7 @@ import type { Gif } from './gifs/interfaces/gif.interface'
 export const GifsApp = () => {
 //   //ferchoss99
    //fernandojoss99
-   //frenandojos99
+//   //frenandojos99
    //josehack99
    //josehack99x3 pero ya siendo el propietario
 // desde local de ferchoss99 x2
