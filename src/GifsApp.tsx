@@ -19,7 +19,8 @@ export const GifsApp = () => {
    // otro commit desde el mismo 
 // despues de mover
 //
-   //prueba estera
+   //prueba estera}
+// cambiando propietario
    //
    //
    //
