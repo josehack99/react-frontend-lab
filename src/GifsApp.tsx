@@ -21,7 +21,7 @@ export const GifsApp = () => {
 //
    //prueba estera}
 // cambiando propietario
-   //
+   // Prueba con otro git config --global user.name
    //
    //
    //dddddddd
