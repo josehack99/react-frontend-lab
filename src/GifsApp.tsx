@@ -12,7 +12,7 @@ export const GifsApp = () => {
    //fernandojoss99
    //frenandojos99
    //josehack99
-   //josehack99x2
+   //josehack99x3 pero ya siendo el propietario
 // desde local de ferchoss99 x2
 
 //
