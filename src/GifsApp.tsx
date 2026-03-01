@@ -8,6 +8,8 @@ import { getGifsByQuery } from './gifs/actions/get-gifs-by-query.action'
 import type { Gif } from './gifs/interfaces/gif.interface'
 //g
 //
+//
+
 export const GifsApp = () => {
 //   //ferchoss99
    //fernandojoss99
